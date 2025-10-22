@@ -40,7 +40,7 @@ extra_require = {
 
 def main():
     setup(
-        name="verl",
+        name="easyr1",
         version=get_version(),
         description="An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
         long_description=open("README.md", encoding="utf-8").read(),
